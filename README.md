@@ -1,5 +1,5 @@
 # afrodita
-figma link : https://www.figma.com/file/y44SiDJzPubMho58x2UQCp/aphrodite-web?type=design&node-id=53%3A2136&mode=design&t=rgjo9OsSKk0tWfuY-1
+figma link :<abbr> https://www.figma.com/file/y44SiDJzPubMho58x2UQCp/aphrodite-web?type=design&node-id=53%3A2136&mode=design&t=rgjo9OsSKk0tWfuY-1</abbr>
 
 
 <iР</i>ассмотрим некоторые распространенные точки останова:
