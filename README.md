@@ -2,7 +2,7 @@
 figma link :<abbr> https://www.figma.com/file/y44SiDJzPubMho58x2UQCp/aphrodite-web?type=design&node-id=53%3A2136&mode=design&t=rgjo9OsSKk0tWfuY-1</abbr>
 
 
-Рассмотрим некоторые<i> р</i>аспространенные точки останова:
+Рассмотрим некоторые<> р</i>аспространенные точки останова:
 <ul>
 <p>320px — 480px: мобильные устройства;</p>
 <p>481px — 768px: планшеты;</p>
